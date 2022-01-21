@@ -1,0 +1,13 @@
+C:\Users\gorke\Desktop\Assignment5-versione\Assignment5-versione\bin\Debug\netcoreapp3.1\Assignment5-versione.exe
+C:\Users\gorke\Desktop\Assignment5-versione\Assignment5-versione\bin\Debug\netcoreapp3.1\Assignment5-versione.deps.json
+C:\Users\gorke\Desktop\Assignment5-versione\Assignment5-versione\bin\Debug\netcoreapp3.1\Assignment5-versione.runtimeconfig.json
+C:\Users\gorke\Desktop\Assignment5-versione\Assignment5-versione\bin\Debug\netcoreapp3.1\Assignment5-versione.runtimeconfig.dev.json
+C:\Users\gorke\Desktop\Assignment5-versione\Assignment5-versione\bin\Debug\netcoreapp3.1\Assignment5-versione.dll
+C:\Users\gorke\Desktop\Assignment5-versione\Assignment5-versione\bin\Debug\netcoreapp3.1\Assignment5-versione.pdb
+C:\Users\gorke\Desktop\Assignment5-versione\Assignment5-versione\obj\Debug\netcoreapp3.1\Assignment5-versione.csprojAssemblyReference.cache
+C:\Users\gorke\Desktop\Assignment5-versione\Assignment5-versione\obj\Debug\netcoreapp3.1\Assignment5-versione.AssemblyInfoInputs.cache
+C:\Users\gorke\Desktop\Assignment5-versione\Assignment5-versione\obj\Debug\netcoreapp3.1\Assignment5-versione.AssemblyInfo.cs
+C:\Users\gorke\Desktop\Assignment5-versione\Assignment5-versione\obj\Debug\netcoreapp3.1\Assignment5-versione.csproj.CoreCompileInputs.cache
+C:\Users\gorke\Desktop\Assignment5-versione\Assignment5-versione\obj\Debug\netcoreapp3.1\Assignment5-versione.dll
+C:\Users\gorke\Desktop\Assignment5-versione\Assignment5-versione\obj\Debug\netcoreapp3.1\Assignment5-versione.pdb
+C:\Users\gorke\Desktop\Assignment5-versione\Assignment5-versione\obj\Debug\netcoreapp3.1\Assignment5-versione.genruntimeconfig.cache
